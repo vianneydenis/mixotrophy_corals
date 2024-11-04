@@ -1,10 +1,9 @@
 # Trophic plasticiy of mixotrophic corals
 
-Data and script to replicate analyses in Sturaro et al. (2021). Knit Hsuetal2020_Analysis.Rmd. If used in full or in part, please cite the original publication:
+Data and script to replicate analyses in Sturaro et al. (2021).
 
 Sturaro S, Hsieh YE, Chen Q, Wang P-L, Denis V (2021) Trophic plasticity of mixotrophic corals under contrasting environments. Functional Ecology 35(12):2841-2855. doi: [10.1111/1365-2435.13924](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13924)
 
-Organismal trait data also available on [Dryad](https://doi.org/10.5061/dryad.2ngf1vhnt) 
 
 A study from [FRElab](https://www.dipintothereef.com/), Institute of Oceanography, National Taiwan University, TAIWAN
 
@@ -30,7 +29,7 @@ A study from [FRElab](https://www.dipintothereef.com/), Institute of Oceanograph
 
 2. Scleractinian corals are ecologically important mixotrophs, but understanding their trophic plasticity has been impaired by an oversimplification towards inconsistent proxies of coral diet and overlooking intraspecific variability.
 
-3.Here, we applied a Bayesian analysis of carbon and nitrogen stable isotope data to determine the trophic niches of six common species of scleractinian corals and their associated endosymbionts, and combined it with an unsupervised machine learning algorithm to identify trophic behaviours and strategies.
+3. Here, we applied a Bayesian analysis of carbon and nitrogen stable isotope data to determine the trophic niches of six common species of scleractinian corals and their associated endosymbionts, and combined it with an unsupervised machine learning algorithm to identify trophic behaviours and strategies.
 
 4. We found a variable amount of nutritional plasticity identified by different trophic behaviours within and between mixotrophic corals living under the same environmental conditions. Furthermore, we observed changes in trophic plasticity across environmental conditions. Corals from variable environments had larger host and endosymbiont niches than corals from stable environments. In addition, deeper corals had niches indicating a greater degree of heterotrophy than shallow corals. Collectively, corals exhibited distinct trophic strategies by promoting trophic niche differentiation along the mixotrophic continuum and conspecific individual colonies displayed high trophic variation.
 
